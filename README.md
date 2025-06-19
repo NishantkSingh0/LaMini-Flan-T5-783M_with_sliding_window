@@ -58,7 +58,7 @@ Exiting chatbot. Goodbye!
 # 🛠️ Setup Instructions
 ### 1. Clone the repository
 ```Git
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/nishantksingh0/LaMini-Flan-T5-783M_with_sliding_window.git
 cd your-repo-name
 ```
 ### 2. Install dependencies
@@ -77,6 +77,11 @@ python interface.py
 
 ![image](https://github.com/user-attachments/assets/e4855b67-764d-4400-a944-8969c15b7f5c)
 
+### - memory.histoy
+```
+['User: What is machine learning?\nBot: Machine learning is a type of artificial intelligence that enables computers to learn from data and improve their performance on a specific task without being explicitly programmed.',
+ 'User: Is it used in healthcare?\nBot: Yes, machine learning is used in healthcare for a variety of applications such as medical image analysis, drug discovery, personalized treatment plans, and predictive analytics.']
+```
 
 <br>  
 
