@@ -49,10 +49,9 @@ Bot: Beijing.
   
 User: And what of Japan  
 Bot: The capital of Japan is Tokyo
-```
-```
+  
 User: exit  
-Bot: Exiting chatbot. Goodbye!  
+Exiting chatbot. Goodbye!  
 ```
 <br>   
 
@@ -75,13 +74,9 @@ python interface.py
 
 
 # 🧾 Example Interaction
-```Responses
-User: What is machine learning?
-Bot: Machine learning is a subset of AI that allows systems to learn...
 
-User: Is it used in healthcare?
-Bot: Yes, ML is used in healthcare for diagnostics, treatment planning, etc.
-```
+![image](https://github.com/user-attachments/assets/e4855b67-764d-4400-a944-8969c15b7f5c)
+
 
 <br>  
 
