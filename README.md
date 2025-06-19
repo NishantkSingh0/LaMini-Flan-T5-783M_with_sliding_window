@@ -70,6 +70,9 @@ pip install torch transformers
 python interface.py
 ```
 
+## Use live on cloud 🟢
+<a href="https://colab.research.google.com/drive/1VmOeYUdhDA7bp3eO9m9I6V_E7zBCXRbo?usp=sharing" target="_blank">Colab</a> --> Use, Experiment, Update...
+
 <br>   
 
 
